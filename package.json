@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "GoitStudentsWorks",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/group-07-project-1/",
+    "build": "vite build --base=/html_css_86_Matvii-holovan/",
     "preview": "vite preview"
   },
   "devDependencies": {
